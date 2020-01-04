@@ -63,7 +63,7 @@ For most of her life, Ripley's entry or departure in a room was accompanied by a
 
 Much as I might try, I can't sum up 5 excellent years with Ripley, even in a long and maudlin post like this one. I can only say: she was a beautiful dog in almost every way, and she meant everything to us that a dog can, and her memory will be part of our lives forever. 
 
-There's that old chestnut about pets resembling their owners, or vice versa (I'm never sure which way around that goes.) If that's true, and it makes Raya and I a pair of awkward, over-emotional skinny weirdos, prone to nerves and attention deficit, I know that it puts us in the absolute best company imaginable ❤️
+There's that old chestnut about pets resembling their owners, or vice versa (I'm never sure which way around that goes.) If that's true, and it makes Raya and I a pair of awkward, over-emotional skinny weirdos, prone to nerves and attention deficit, then I know for sure that puts us in the best company imaginable ❤️
 
 _Farewell, Little Dog. You are missed._
 ![Ripley in Central Gardens 2](./img/ripley_park_2.jpg)
