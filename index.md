@@ -17,7 +17,7 @@ We took her home for a trial period, and during the 5 minute walk back from the 
 ![Ripley at adoption](./img/young_ripley.jpg "Ripley at adoption")
 
 She frightened my parents' new whippet puppy, harried and annoyed their senior greyhound, and prompted plenty of wry observations from my sister about her sanity and what exactly we were in for. Kim has a good line in wry observations.
-![Ripley unshamed by the cone of shame](./img/cone_leaf.jpg "Ripley unshamed by the cone of shame")
+![Ripley unshamed by the cone of shame](./img/cone_leaf.JPG "Ripley unshamed by the cone of shame")
 
 "Hyper-kinetic" was the right term for Ripley in her prime. She had the atheleticism and muscle to sprint or launch herself into the air at awe-inspiring speed, the endurance to do that for hours on end, and a worrying lack of body awareness that made her skull a serious hazard to the kneecaps of anyone present while she was at it (dear macho-looking-guy-in-the-dog-park-that-one-time: I'm still really sorry and I hope your knee healed okay). 
 
@@ -42,7 +42,7 @@ Ripley's cancer seems to have been as rare a beast as she was. We've been told t
 ![Ripley finding her bliss in a drainage ditch](./img/drainage_ditch.jpg)
 
 With surgery and follow-up chemotherapy, Ripley beat cancer for about 13 months. If the old "1 human year = 7 dog years" maths works, she got almost an extra relative decade with us. I hold onto that thought, because it suggests that the treatment, heartache, and expense (pet insurance covered most of it, or we wouldn't have been able to) of the past year hasn't been in vain.
-![Ripley with Raya on the couch](./img/raya_couch.jpg)
+![Ripley with Raya on the couch](./img/raya_couch.JPG)
 
 She bounced back quickly from the surgery, and had blessedly short-lived and moderate side effects from the chemo. I can't thank her vets and her surgeon enough. We've been universally floored by the kindness, sensitivity, and patience of the veterinary professionals that we've dealt with. When she finished her chemo in July of last year, everything looked clear. By the end of October, it became clear that it wasn't, and that she probably had metastases in her lungs and liver, growing fast.
 ![Ripley in Central Gardens](./img/park_ripley.jpg)
