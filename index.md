@@ -1,5 +1,3 @@
-<link href="style.css" rel="stylesheet"></link>
-
 # _Ripley, 2014 - 2019_
 
 _**Dear reader:** I may be about to make you cry. 
