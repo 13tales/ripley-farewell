@@ -1,0 +1,35 @@
+@font-face {
+  font-family: "Charter";
+  src: url("./fonts/charter_regular-webfont.woff") format("woff");
+}
+
+html {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: #3a3335;
+  background: #fffaf0;
+}
+
+body {
+  width: 90ex;
+  font-size: 21px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  line-height: 28px;
+  font-family: "Charter";
+}
+
+h1 {
+  width: 100%;
+}
+
+img {
+  width: 80%;
+  margin: 1em 10% 0;
+}
+
+p {
+  margin: 0 0 1em;
+}
